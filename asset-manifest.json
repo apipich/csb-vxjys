@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://apipich.github.io/csb-vxjys/static/css/main.f30c6c04.chunk.css",
+    "main.js": "https://apipich.github.io/csb-vxjys/static/js/main.2c81455f.chunk.js",
+    "main.js.map": "https://apipich.github.io/csb-vxjys/static/js/main.2c81455f.chunk.js.map",
+    "runtime-main.js": "https://apipich.github.io/csb-vxjys/static/js/runtime-main.872f85c1.js",
+    "runtime-main.js.map": "https://apipich.github.io/csb-vxjys/static/js/runtime-main.872f85c1.js.map",
+    "static/js/2.af96a895.chunk.js": "https://apipich.github.io/csb-vxjys/static/js/2.af96a895.chunk.js",
+    "static/js/2.af96a895.chunk.js.map": "https://apipich.github.io/csb-vxjys/static/js/2.af96a895.chunk.js.map",
+    "index.html": "https://apipich.github.io/csb-vxjys/index.html",
+    "static/css/main.f30c6c04.chunk.css.map": "https://apipich.github.io/csb-vxjys/static/css/main.f30c6c04.chunk.css.map",
+    "static/js/2.af96a895.chunk.js.LICENSE.txt": "https://apipich.github.io/csb-vxjys/static/js/2.af96a895.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.872f85c1.js",
+    "static/js/2.af96a895.chunk.js",
+    "static/css/main.f30c6c04.chunk.css",
+    "static/js/main.2c81455f.chunk.js"
+  ]
+}
